@@ -19,7 +19,7 @@ vesperr is a responsive web project created using HTML, SCSS, and JavaScript, wi
 ## Technologies Used
 
 - HTML
-- SCSS
+- CSS
 - JavaScript
 - Bootstrap
 
